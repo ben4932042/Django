@@ -1,0 +1,9 @@
+data
+__pycache__
+.DS_Store
+.env
+.venv
+Pipfile.lock
+build/
+*.swp
+*.egg-info/
